@@ -1,0 +1,14 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js -e js,hbs"
+  },
+  "author": "Luis F. Muñoz",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
